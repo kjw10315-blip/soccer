@@ -1,0 +1,6 @@
+{
+  "name": "축구 선수 이름 맞추기",
+  "description": "초급·중급·고급 300+ 축구선수 퀴즈! 15초 제한시간, 2회 기회, 오답노트 기능까지 갖춘 인터랙티브 축구 퀴즈 게임",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
